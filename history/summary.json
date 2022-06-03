@@ -1,20 +1,20 @@
 [
   {
-    "name": "Own site",
+    "name": "My socials",
     "url": "https://vasilvestre.github.io/",
     "icon": "https://favicons.githubusercontent.com/vasilvestre.github.io",
-    "slug": "own-site",
+    "slug": "my-socials",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 117,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 781,
-    "timeWeek": 781,
-    "timeMonth": 781,
-    "timeYear": 781,
+    "time": 661,
+    "timeDay": 661,
+    "timeWeek": 661,
+    "timeMonth": 661,
+    "timeYear": 661,
     "dailyMinutesDown": {}
   }
 ]
