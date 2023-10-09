@@ -8,7 +8,7 @@ sites:
   - name: Client website
     url: https://www.smsp.fr/
   - name: Second client website
-    name: https://www.dumont-securite.fr/
+    url: https://www.dumont-securite.fr/
   # Discontinued
   #- name: Multistream, OSS project
   #  url: https://multistream-tools.live/
