@@ -1,7 +1,7 @@
 url: https://www.smsp.fr/
-status: up
-code: 200
-responseTime: 1784
-lastUpdated: 2023-10-18T16:21:15.186Z
+status: down
+code: 500
+responseTime: 1231
+lastUpdated: 2023-10-18T17:20:17.634Z
 startTime: 2023-10-09T08:46:52.747Z
 generator: Upptime <https://github.com/upptime/upptime>
