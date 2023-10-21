@@ -22,10 +22,10 @@
     "url": "https://www.smsp.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.smsp.fr.ico",
     "slug": "client-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.50%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.56%",
     "time": 1903,
@@ -34,7 +34,7 @@
     "timeMonth": 1903,
     "timeYear": 1903,
     "dailyMinutesDown": {
-      "2023-10-21": 15,
+      "2023-10-21": 16,
       "2023-10-18": 35,
       "2023-10-09": 26
     }
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dumont-securite.fr.ico",
     "slug": "second-client-website",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "94.08%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.11%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
     "time": 1733,
     "timeDay": 1458,
     "timeWeek": 1500,
     "timeMonth": 1733,
     "timeYear": 1733,
     "dailyMinutesDown": {
-      "2023-10-21": 86,
+      "2023-10-21": 105,
       "2023-10-18": 35,
       "2023-10-09": 18
     }
