@@ -1,7 +1,7 @@
 url: https://www.dumont-securite.fr/
-status: up
-code: 200
-responseTime: 1615
-lastUpdated: 2024-07-10T23:05:20.885Z
+status: down
+code: 502
+responseTime: 672
+lastUpdated: 2024-07-11T07:54:33.926Z
 startTime: 2023-10-09T08:46:56.069Z
 generator: Upptime <https://github.com/upptime/upptime>
