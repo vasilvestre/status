@@ -58,35 +58,39 @@
     "url": "https://www.smsp.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.smsp.fr.ico",
     "slug": "smsp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1499,
-    "timeDay": 1351,
-    "timeWeek": 1544,
-    "timeMonth": 1499,
-    "timeYear": 1499,
-    "dailyMinutesDown": {}
+    "time": 1724,
+    "timeDay": 3454,
+    "timeWeek": 2046,
+    "timeMonth": 1724,
+    "timeYear": 1724,
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   },
   {
     "name": "Dumont securite",
     "url": "https://www.dumont-securite.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dumont-securite.fr.ico",
     "slug": "dumont-securite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2233,
-    "timeDay": 4024,
-    "timeWeek": 2892,
-    "timeMonth": 2233,
-    "timeYear": 2233,
-    "dailyMinutesDown": {}
+    "time": 2400,
+    "timeDay": 4628,
+    "timeWeek": 3184,
+    "timeMonth": 2400,
+    "timeYear": 2400,
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   }
 ]
