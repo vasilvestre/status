@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 91,
-    "timeWeek": 120,
+    "timeDay": 70,
+    "timeWeek": 106,
     "timeMonth": 117,
-    "timeYear": 99,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cataas.com.ico",
     "slug": "cats",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 704,
-    "timeDay": 517,
-    "timeWeek": 556,
-    "timeMonth": 715,
-    "timeYear": 704,
-    "dailyMinutesDown": {
-      "2025-05-07": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 700,
+    "timeDay": 513,
+    "timeWeek": 529,
+    "timeMonth": 717,
+    "timeYear": 700,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Akawaka",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1117,
-    "timeDay": 1129,
-    "timeWeek": 1031,
-    "timeMonth": 1119,
-    "timeYear": 1117,
+    "time": 1109,
+    "timeDay": 824,
+    "timeWeek": 947,
+    "timeMonth": 1118,
+    "timeYear": 1109,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.79%",
-    "time": 1647,
-    "timeDay": 1437,
-    "timeWeek": 1463,
-    "timeMonth": 1669,
-    "timeYear": 1647,
+    "time": 1641,
+    "timeDay": 1401,
+    "timeWeek": 1420,
+    "timeMonth": 1668,
+    "timeYear": 1641,
     "dailyMinutesDown": {
       "2025-04-25": 70,
       "2025-04-17": 35
@@ -87,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 2123,
-    "timeDay": 4209,
-    "timeWeek": 1594,
-    "timeMonth": 2124,
-    "timeYear": 2123,
+    "time": 2099,
+    "timeDay": 1165,
+    "timeWeek": 1554,
+    "timeMonth": 2129,
+    "timeYear": 2099,
     "dailyMinutesDown": {
       "2025-04-17": 35
     }
