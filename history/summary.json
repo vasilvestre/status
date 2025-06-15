@@ -22,18 +22,20 @@
     "url": "https://cataas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cataas.com.ico",
     "slug": "cats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 514,
-    "timeWeek": 540,
-    "timeMonth": 598,
-    "timeYear": 644,
-    "dailyMinutesDown": {}
+    "time": 825,
+    "timeDay": 8148,
+    "timeWeek": 2064,
+    "timeMonth": 998,
+    "timeYear": 825,
+    "dailyMinutesDown": {
+      "2025-06-15": 0
+    }
   },
   {
     "name": "Akawaka",
