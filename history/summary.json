@@ -22,19 +22,19 @@
     "url": "https://cataas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cataas.com.ico",
     "slug": "cats",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 580,
-    "timeWeek": 1770,
-    "timeMonth": 948,
-    "timeYear": 807,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 805,
+    "timeDay": 578,
+    "timeWeek": 1684,
+    "timeMonth": 939,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2025-06-20": 0
+      "2025-06-20": 12
     }
   },
   {
