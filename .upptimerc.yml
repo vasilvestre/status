@@ -14,7 +14,7 @@ sites:
   - name: Dumont securite
     url: https://www.dumont-securite.fr/
   - name: Home Assistant
-    url: https://vasilvestre.duckdns.org
+    url: https://vasilvestre.duckdns.org:8123/
   # Discontinued
   #- name: Multistream, OSS project
   #  url: https://multistream-tools.live/
