@@ -13,6 +13,8 @@ sites:
     url: https://www.smsp.fr/
   - name: Dumont securite
     url: https://www.dumont-securite.fr/
+  - name: Home Assistant
+    url: https://vasilvestre.duckdns.org
   # Discontinued
   #- name: Multistream, OSS project
   #  url: https://multistream-tools.live/
