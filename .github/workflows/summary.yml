@@ -23,7 +23,7 @@ on:
   workflow_dispatch:
 concurrency:
   group: ${{ github.repository }}-${{ github.head_ref || github.ref_name }}-upptime
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   release:
     name: Generate README
