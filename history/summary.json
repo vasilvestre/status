@@ -22,9 +22,9 @@
     "url": "https://cataas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cataas.com.ico",
     "slug": "cats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 626,
     "timeMonth": 617,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-08": 0
+    }
   },
   {
     "name": "Akawaka",
@@ -95,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vasilvestre.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "64.11%",
+    "uptime": "63.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.36%",
-    "uptimeYear": "64.11%",
+    "uptimeMonth": "44.98%",
+    "uptimeYear": "63.95%",
     "time": 752,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 899,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2026-10-08": 289,
+      "2026-10-08": 452,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
