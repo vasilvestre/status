@@ -22,11 +22,11 @@
     "url": "https://cataas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cataas.com.ico",
     "slug": "cats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "83.56%",
-    "uptimeWeek": "93.38%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "83.53%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.87%",
     "time": 740,
     "timeDay": 566,
@@ -35,7 +35,8 @@
     "timeYear": 639,
     "dailyMinutesDown": {
       "2026-10-08": 431,
-      "2026-10-09": 237
+      "2026-10-09": 237,
+      "2026-10-10": 0
     }
   },
   {
@@ -98,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vasilvestre.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "61.46%",
+    "uptime": "60.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.81%",
-    "uptimeYear": "61.46%",
+    "uptimeMonth": "36.84%",
+    "uptimeYear": "60.71%",
     "time": 752,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 601,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2026-10-10": 278,
+      "2026-10-10": 1142,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
