@@ -14,7 +14,7 @@ sites:
   - name: Dumont securite
     url: https://www.dumont-securite.fr/
   - name: Home Assistant
-    url: https://vasilvestre.duckdns.org:8123/
+    url: https://vasilvestre.duckdns.org/
   - name: Custom website for Dart tournament
     url: https://dartiti.vercel.app/leaderboard
   # Discontinued
