@@ -22,10 +22,10 @@
     "url": "https://cataas.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cataas.com.ico",
     "slug": "cats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "91.49%",
-    "uptimeWeek": "78.71%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "78.70%",
     "uptimeMonth": "93.16%",
     "uptimeYear": "99.43%",
     "time": 731,
@@ -41,7 +41,8 @@
       "2026-10-13": 420,
       "2026-10-15": 553,
       "2026-10-16": 493,
-      "2026-10-17": 123
+      "2026-10-17": 123,
+      "2026-10-18": 1
     }
   },
   {
@@ -68,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smsp.fr.ico",
     "slug": "smsp",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "76.61%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.94%",
     "time": 1884,
     "timeDay": 590,
     "timeWeek": 2061,
     "timeMonth": 1613,
     "timeYear": 1625,
     "dailyMinutesDown": {
-      "2026-10-18": 0
+      "2026-10-18": 337
     }
   },
   {
@@ -88,18 +89,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dumont-securite.fr.ico",
     "slug": "dumont-securite",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "76.63%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.94%",
     "time": 2954,
     "timeDay": 560,
     "timeWeek": 1286,
     "timeMonth": 1383,
     "timeYear": 1442,
     "dailyMinutesDown": {
-      "2026-10-18": 0
+      "2026-10-18": 337
     }
   },
   {
@@ -108,11 +109,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vasilvestre.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "61.58%",
+    "uptime": "61.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.42%",
+    "uptimeWeek": "77.75%",
     "uptimeMonth": "28.41%",
-    "uptimeYear": "61.58%",
+    "uptimeYear": "61.73%",
     "time": 724,
     "timeDay": 515,
     "timeWeek": 581,
