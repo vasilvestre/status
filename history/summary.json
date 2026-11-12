@@ -26,7 +26,7 @@
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.50%",
+    "uptimeMonth": "91.67%",
     "uptimeYear": "99.05%",
     "time": 964,
     "timeDay": 586,
@@ -56,9 +56,9 @@
     "url": "https://www.akawaka.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.akawaka.fr.ico",
     "slug": "akawaka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -67,7 +67,9 @@
     "timeWeek": 913,
     "timeMonth": 1060,
     "timeYear": 1136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-12": 0
+    }
   },
   {
     "name": "SMSP",
@@ -117,11 +119,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vasilvestre.duckdns.org.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "73.23%",
+    "uptime": "73.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "73.23%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "73.37%",
     "time": 725,
     "timeDay": 488,
     "timeWeek": 607,
